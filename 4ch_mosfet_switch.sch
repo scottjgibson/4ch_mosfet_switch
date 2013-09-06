@@ -5831,6 +5831,7 @@ Source: http://eshop.phoenixcontact.com .. 1751248.pdf</description>
 <sheets>
 <sheet>
 <plain>
+<text x="152.4" y="2.54" size="2.54" layer="94">Scott Gibson</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="-15.24" y="-7.62"/>
